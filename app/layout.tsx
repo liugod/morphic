@@ -12,9 +12,8 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
-const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+const title = '领知AI知识工作者引擎'
+const description = 'AI-powered knowlege engine.'
 
 export const metadata: Metadata = {
   title,
@@ -27,7 +26,7 @@ export const metadata: Metadata = {
     title,
     description,
     card: 'summary_large_image',
-    creator: '@miiura'
+    creator: '@liugod'
   }
 }
 
