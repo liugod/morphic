@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: '假期拒绝人挤人！适合带娃去的④个小众旅行地?',
+    message: '假期拒绝人挤人！适合带娃去的④个小众旅行地?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: '无主灯装修设计就是坑，千万不要装?',
+    message: '无主灯装修设计就是坑，千万不要装?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: '怎样把男式内裤的文案写出高级感?',
+    message: '怎样把男式内裤的文案写出高级感?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: '花西子 vs 雅思兰黛',
+    message: '花西子 vs 雅思兰黛'
   }
 ]
 export function EmptyScreen({
